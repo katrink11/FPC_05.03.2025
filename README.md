@@ -23,9 +23,9 @@
 ## Компиляция
 g++ -o main main.cpp -fopenmp -O3
 ## Запуск
-(100x100 поле, 50 итераций)
+(12x77 поле, 50 итераций)
 
-        ./main --rows 100 --cols 100 --iter 50
+        ./main --rows 12 --cols 77 --iter 50
 
 
 
